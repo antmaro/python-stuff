@@ -1,0 +1,2 @@
+= Python for newbies
+This is a howto about python for sysadmins
